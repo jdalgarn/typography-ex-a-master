@@ -1,0 +1,26 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1{
+
+	font-family: 'Playfair Display SC', serif;
+
+}
+
+h3{
+
+	font-family: 'Mr De Haviland', cursive;
+	font-size: 48px;
+
+}
+
+p{	
+
+	font-family: 'Poiret One', cursive;
+
+}
